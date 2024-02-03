@@ -1,0 +1,127 @@
+body{
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    margin-right: 80px;
+}
+h1,h3{
+    text-align: center;
+}
+h2{
+    margin-left: 5px;
+}
+ul{
+    list-style-type:none;
+}
+pre{
+    color: rgb(164, 162, 162);
+}
+li a{
+    color:black;
+    text-decoration: none;
+    float: left;
+}
+button{
+    border: 1px solid rgb(182, 183, 184);
+    background-color: white;
+    border-radius: 4px;
+    color: rgb(182, 183, 184);
+    height: 30px;
+}
+span{
+    margin-left: 30px;
+    padding-right: 120px;
+}
+.three img{
+    border-radius: 50%;
+}
+.five img{
+    border-radius: 50%;
+}
+.two{
+    height:fit-content;
+    text-decoration: none;
+    color:rgb(175, 172, 172);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 5px;
+    align-content:right ;
+}
+.three{
+    display: flex;
+    text-align: center;
+    background-color:rgb(249, 245, 245);
+}
+.four{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color:rgb(249, 245, 245);
+}
+.five{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.six{
+    display: flex;
+    justify-content: space-between;
+}
+.end{
+    background-color: #F7FFE5;
+}
+.footer{
+    border: 1px solid none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #F5F7F8;
+    margin-top: 44px;
+    padding: 44px;
+}
+.six img{
+    border-radius: 10px;
+}
+.four .sub img{
+    margin-top: 15px;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.four .hotel{
+    margin-top: 15px;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.six .seven{
+    padding-top: 3px;
+    font-size: 25px;
+}
+.foo img{
+    border-radius: 50px;
+}
+.end select{
+    border-radius: 15px;
+    border:1px solid rgb(211, 209, 209);
+    background-color: #F8FAE5;
+}
+#login{
+    margin-left: 70px;
+}
+#loc{
+    height: 30px;
+    margin-right: none;
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+#input{
+    height: 30px;
+    width: 300px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+.delivary{
+    border-bottom:1px solid aliceblue ;
+}
+.filters{
+    margin-top: 5px;
+}
